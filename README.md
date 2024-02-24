@@ -7,7 +7,7 @@ Una tienda de libros en línea desea implementar prácticas básicas de DEVOPS. 
 
 **Para ejecutar un proyecto React, necesitarás algunos requisitos básicos.** 
 
-1. **Node.js y npm:**
+1. **Node.js y npm/yarn:**
    - Asegúrate de tener Node.js instalado. Puedes descargar la última versión desde el [sitio oficial de Node.js](https://nodejs.org/).
    - npm (Node Package Manager) se instala automáticamente con Node.js.
 
@@ -16,10 +16,10 @@ Una tienda de libros en línea desea implementar prácticas básicas de DEVOPS. 
 
 3. **Instalación de Dependencias:**
    - Navega hasta el directorio del proyecto en tu terminal `book-store`.
-   - Ejecuta el comando `npm install` para instalar todas las dependencias del proyecto que están definidas en el archivo `package.json`.
+   - Ejecuta el comando `yarn` para instalar todas las dependencias del proyecto que están definidas en el archivo `package.json`.
 
 4. **Entorno de Desarrollo:**
-   - Ejecuta el comando `npm start`. Esto iniciará un servidor de desarrollo y abrirá la aplicación en tu navegador predeterminado.
+   - Ejecuta el comando `yarn start`. Esto iniciará un servidor de desarrollo y abrirá la aplicación en tu navegador predeterminado.
    - La aplicación se recargará automáticamente cada vez que realices cambios en el código fuente.
 
 Eso es básicamente lo que necesitas para ejecutar un proyecto React. 
